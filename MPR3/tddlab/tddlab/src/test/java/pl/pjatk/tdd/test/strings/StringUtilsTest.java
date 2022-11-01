@@ -4,8 +4,6 @@ import org.junit.Assert;
 import org.junit.Test;
 import pl.pjatk.tdd.strings.StringUtils;
 
-import java.util.Arrays;
-
 public class StringUtilsTest {
 
     @Test
